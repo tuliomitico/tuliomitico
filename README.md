@@ -1,3 +1,13 @@
+<h1 align='center'>Olá, eu sou o Túlio  de F. Castro </h1><br/>
+<br/>
+  
+<h2 align='center'>Atualmente trabalhando em uma pesquisa científica na Universidade Federal Sergipe com foco em Meta-Aprendizado e aprendizagem não supervisionada 🤔 </h2>
+ 
+## Redes Sociais
+
+* [Instagram](instagram.com/tuliofreitascastro)
+* [Kaggle](kaggle.com/tuliofc)
+
 ### Hi there 👋
 
 <!--
