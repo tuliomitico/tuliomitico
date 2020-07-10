@@ -5,8 +5,8 @@
  
 ## Redes Sociais
 
-* [Instagram](instagram.com/tuliofreitascastro)
-* [Kaggle](kaggle.com/tuliofc)
+* [Instagram](https://www.instagram.com/tuliofreitascastro)
+* [Kaggle](https://www.kaggle.com/tuliofc)
 
 ### Hi there 👋
 
