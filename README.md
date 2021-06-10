@@ -41,7 +41,7 @@
 <br/>
 <p align="left" >
   <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a> 
-  <a href="www.spyder-ide.org" target="_blank">
+  <a href="http://www.spyder-ide.org" target="_blank">
   <img align="center" alt="Spyder" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" />
   </a>
   <a href="https://developer.android.com/studio?hl=pt&gclid=Cj0KCQjw5PGFBhC2ARIsAIFIMNeSR2C0Gc17zpGKseNSAozf0f4GK4elcRl69-SfYcOEu5ry8anRzWoaAlNdEALw_wcB&gclsrc=aw.ds"       target="_blank">
