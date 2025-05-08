@@ -32,6 +32,9 @@
 <a href="https://react.dev/" target="_blank">
   <img align="center" alt="React" width="26px" height="28px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
 </a>
+<a href="https://vite.dev/" target="_blank">
+  <img align="center" alt="Vite" width="26px" height="28px" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg"/>
+</a>
 <a href="https://reactnative.dev/" target="_blank">
   <img align="center" alt="React Native" width="26px" height="28px" src="https://vectorwiki.com/logo/react-native/download"/>
 </a>
@@ -45,9 +48,11 @@
   <img align="left" alt="Rust" width="28px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"/>
 </a>
 <a href="https://www.w3.org/html/" target="_blank">
-  <img align="left" alt="Javascript" width="28px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" /></a>
+  <img align="left" alt="Javascript" width="28px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
+</a>
 <a href="https://www.typescriptlang.org/" target="_blank">
-  <img align="left" alt="Typescript" width="28px" height="28px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>
+  <img align="left" alt="Typescript" width="28px" height="28px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+</a>
 <a href="https://www.microsoft.com/en-us/sql-server"  target="_blank">
   <img align="left" alt="MSSQL" width="28px" src="https://www.svgrepo.com/download/372910/msql-server.svg"/>
 </a>
@@ -55,13 +60,16 @@
   <img align="left" alt="ClickHouse" width="28px" src="https://vectorwiki.com/logo/clickhouse/download"/>
 </a>
 <a href="https://www.sqlite.org/" target="_blank">
-  <img align="left" alt="SQLite" width="28px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
+  <img align="left" alt="SQLite" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/>
 </a>
 <a href="https://www.postgresql.org" target="_blank">
   <img align="left" alt="Postgres" width="28px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
   <img align="left" alt="MySQL" width="28px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img align="left" alt="Mongo" width="28px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 </a>
 <br/>
 </p>
