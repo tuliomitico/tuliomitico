@@ -3,7 +3,7 @@
   
 <h2 align='center'>🚀 Transferido do 9º período no curso de Sistema de Informação na <img src="./images/logoUfs.svg" height="30" width="40"/><a href=https://www.ufs.br>Universidade Federal de Sergipe</a>.
 </h2>
-<h2 align='center'>🎓 Atualmente no último período no curso de Sistema de Informação na <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Ufu_logo.svg" height="30" width="40" /><a href=https://www.ufu.br>Universidade Federal de Uberlândia</a>.
+<h2 align='center'>🎓 Formado e graduado pelo curso de Sistema de Informação na <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Ufu_logo.svg" height="30" width="40" /><a href=https://www.ufu.br>Universidade Federal de Uberlândia</a>.
 </h2>
 
 <br/> 
