@@ -36,7 +36,7 @@
   <img align="center" alt="Vite" width="26px" height="28px" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg"/>
 </a>
 <a href="https://reactnative.dev/" target="_blank">
-  <img align="center" alt="React Native" width="26px" height="28px" src="https://vectorwiki.com/logo/react-native/download"/>
+  <img align="center" alt="React Native" width="26px" height="28px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>
 </a>
 <a href="https://vuejs.org" target="_blank">
   <img align="center" alt="Vue" width="26px" height="28px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
@@ -57,7 +57,7 @@
   <img align="left" alt="MSSQL" width="28px" src="https://www.svgrepo.com/download/372910/msql-server.svg"/>
 </a>
 <a href="https://clickhouse.com" target="_blank">
-  <img align="left" alt="ClickHouse" width="28px" src="https://vectorwiki.com/logo/clickhouse/download"/>
+  <img align="left" alt="ClickHouse" width="28px" src="https://cdn.worldvectorlogo.com/logos/clickhouse-2.svg"/>
 </a>
 <a href="https://www.sqlite.org/" target="_blank">
   <img align="left" alt="SQLite" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/>
